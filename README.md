@@ -15,3 +15,5 @@ You should receive the output as:
 ```sh
 {"you sent":{"name":"xyz"}}
 ```
+**With file [flask_restful_basic](flask_restful_basic.py) you can do simmilar operations.**
+
